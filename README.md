@@ -1,1 +1,1 @@
-# Rx Provider Portal Frontend
+# React.js Seed Repo
